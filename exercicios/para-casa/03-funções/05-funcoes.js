@@ -14,3 +14,4 @@ const funcaoRecursiva = (numero1) => { // É obrigatório usar essa função com
 }
 
 funcaoRecursiva(myArgs1);
+

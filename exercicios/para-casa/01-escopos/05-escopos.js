@@ -36,3 +36,4 @@ if (estudo === resposta) {
   ex:
   let estudo = 3 //aqui foi feita a atribuição no escopo local a variável chamada esta na linha 21
 */
+

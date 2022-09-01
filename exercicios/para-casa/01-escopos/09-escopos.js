@@ -29,3 +29,4 @@ if (estudo === resposta) {
   ex:
   let estudo = 35//ultima leitura foi o 35
 */
+

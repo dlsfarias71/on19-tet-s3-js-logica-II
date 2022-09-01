@@ -29,3 +29,4 @@ if (estudo === resposta) {
   ex:
  estudo = 1 //aqui foi feita a atribuição no escopo global chamando a linha  11
 */
+

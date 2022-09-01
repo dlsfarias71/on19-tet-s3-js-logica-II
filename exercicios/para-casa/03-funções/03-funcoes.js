@@ -15,3 +15,4 @@ const converterRealParaDolar = (reais, cotação) => { // É obrigatório usar e
 }
 
 converterRealParaDolar(myArgs1, myArgs2);
+

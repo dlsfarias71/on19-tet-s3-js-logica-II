@@ -48,3 +48,4 @@ if (valorMeiaEntrada === 10) {
   if (estudo !== resposta) { //as variáveis devem ser diferentes para entrar no if
 */
 
+

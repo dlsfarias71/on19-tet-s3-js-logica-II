@@ -13,3 +13,4 @@ const calcularMedia = (numero1, numero2) => { // É obrigatório usar essa funç
 }
 
 calcularMedia(myArgs1, myArgs2);
+

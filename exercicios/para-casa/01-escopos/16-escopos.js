@@ -64,3 +64,4 @@ if (estudo === resposta) {
   let estudo = 10 //úlyima lei8tura foi na linha 11
 */
 
+

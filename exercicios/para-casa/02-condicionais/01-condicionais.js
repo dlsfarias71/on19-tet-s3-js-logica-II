@@ -20,3 +20,4 @@ if (estudo !== resposta) { // mexa apenas aqui
   ex:
   if (estudo !== resposta) { //as variáveis devem ser diferentes para entrar no if
 */
+

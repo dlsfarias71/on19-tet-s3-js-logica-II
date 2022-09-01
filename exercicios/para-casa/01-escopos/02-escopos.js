@@ -36,3 +36,4 @@ if (estudo === resposta) {
   ex:
   const resposta = 1 // pois o 1 está no mesmo escopo do console log, no escopo global
 */
+

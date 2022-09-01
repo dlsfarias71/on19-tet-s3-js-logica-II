@@ -31,3 +31,4 @@ if (estudo === resposta) {
   ex:
   estudo = 10 // pois a variável esta no escopo global
 */
+

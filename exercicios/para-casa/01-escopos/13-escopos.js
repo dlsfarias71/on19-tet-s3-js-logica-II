@@ -36,3 +36,4 @@ if (estudo === resposta) {
   let estudo = é declarado mas seu valor nunca é lido //
 */
 
+

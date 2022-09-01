@@ -28,3 +28,4 @@ if (valorMeiaEntrada === 5) {
   if (adulto <= 18) { //as variáveis devem mostrar a idade a qual se refere para dar o desconto
 */
 
+

@@ -34,3 +34,4 @@ if (estudo === resposta) {
   ex:
    estudo = 6 //aqui foi feita a atribuição no escopo global
 */
+

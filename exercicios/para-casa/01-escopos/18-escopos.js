@@ -31,3 +31,4 @@ if (estudo === resposta) {
  resposta = 20/ o programa leu a linha 12
 */
 
+

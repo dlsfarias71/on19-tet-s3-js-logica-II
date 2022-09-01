@@ -26,3 +26,5 @@ readline.question('\nDiga o número e te direi se é impar ou par!\n', numero =>
   console.log('\nObrigada por jogar!');
   process.exit(0);*/
 
+
+  

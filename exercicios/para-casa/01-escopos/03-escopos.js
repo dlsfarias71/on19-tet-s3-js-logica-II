@@ -36,3 +36,4 @@ if (estudo === resposta) {
   ex:
   let estudo = 6//o programa chamou o 6 pois ele está no mesmo escopo do console log no escopo global
 */
+

@@ -16,3 +16,4 @@ const gerarFuncao = () => { // É obrigatório usar essa função com os parâme
 
 const calcularCircunferencia = gerarFuncao();
 calcularCircunferencia(myArgs1);
+

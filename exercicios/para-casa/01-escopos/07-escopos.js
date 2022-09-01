@@ -33,3 +33,4 @@ if (estudo === resposta) {
   ex:
   let estudo = 24 //"a variável foi alterada a ultima vez na linha 18" 
 */
+

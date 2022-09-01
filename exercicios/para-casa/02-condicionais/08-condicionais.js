@@ -24,3 +24,4 @@ readline.on('close', () => {
   console.log('\nObrigada por calcular!');
   process.exit(0);
 });
+
