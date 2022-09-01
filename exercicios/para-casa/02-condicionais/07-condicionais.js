@@ -10,15 +10,20 @@ const readline = require('readline').createInterface({
 });
 
 readline.question('\nQuando anos você tem?\n', idade => {
+ 
   readline.question('\nVocê é estudante? (Sim, Não)\n', estudante => {
 
-    console.log(idade, estudante);
+    if ( idade >= 16 && estudante < 16 && estudante ) { 
+      console.log("\nQue pena, você não tem esse direito\n");
+  
+    } 
+  
 
-    readline.close();
+   else if ( idade <=18 ) {
+      console.log("\nLegal, você tem direito a meia entrada\n");
+    }
+
+   readline.close();
   });
 });
 
-readline.on('close', () => {
-  console.log('\nBom filme!');
-  process.exit(0);
-});

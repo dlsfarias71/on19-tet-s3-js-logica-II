@@ -33,6 +33,6 @@ if (estudo === resposta) {
   Você consegue justificar sua resposta?
   Comente o código como foi a manipulação dos valores
   ex:
-  let estudo = 1 //aqui foi feita a atribuição no escopo global
+  let estudo = é declarado mas seu valor nunca é lido //
 */
 

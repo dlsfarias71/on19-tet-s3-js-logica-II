@@ -27,6 +27,8 @@ if (valorMeiaEntrada === 5) {
 //Pessoa 2, é adulto, mas não é estudante, negar meia entrada
 adulto = true;
 estudante = false;
+
+
 if (condicional()) {
   valorMeiaEntrada = valorEntrada / 2;
 } else {
