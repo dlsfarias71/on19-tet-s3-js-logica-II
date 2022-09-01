@@ -17,6 +17,9 @@ readline.question('\nChuta um número de um a dez!\n', chute => {
 });
 
 readline.on('close', () => {
-  console.log('\nObrigada por jogar!');
+  console.log('\nVocê errou, jogue novamente!');
+ 
   process.exit(0);
 });
+
+

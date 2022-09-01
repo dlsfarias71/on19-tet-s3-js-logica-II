@@ -11,7 +11,7 @@ let adulto = false;
 let valorEntrada = 10;
 let valorMeiaEntrada;
 
-if (adulto) { // mexa apenas aqui
+if (adulto <= 18) { // mexa apenas aqui
   valorMeiaEntrada = valorEntrada / 2;
 }
 
@@ -25,6 +25,7 @@ if (valorMeiaEntrada === 5) {
   Você consegue justificar sua resposta?
   Comente o código como foi a manipulação dos valores
   ex:
-  if (estudo !== resposta) { //as variáveis devem ser diferentes para entrar no if
+  if (adulto <= 18) { //as variáveis devem mostrar a idade a qual se refere para dar o desconto
 */
+
 

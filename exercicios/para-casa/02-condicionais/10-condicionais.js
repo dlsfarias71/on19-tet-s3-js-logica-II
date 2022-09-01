@@ -21,3 +21,4 @@ readline.on('close', () => {
   console.log('\nObrigada comprar com a gente!');
   process.exit(0);
 });
+
